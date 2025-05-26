@@ -1,0 +1,25 @@
+Section,Column,count,mean,std,min,25%,50%,75%,max
+Describe,Flight ID,3220.0,4997428.782000001,2768393.8637620257,3681.0,2691718.25,4997428.782,7269202.5,9999011.0
+Describe,Flight_Distance,3220.0,498.9093333310559,95.45310811717208,138.0,436.0,498.9093333,560.0,864.0
+Describe,Scheduled_Departure_Time,3220.0,11.434999999999999,6.659362066866491,0.0,6.0,11.435,17.0,23.0
+Describe,Day_of_Week,3220.0,3.963,1.946224310023632,1.0,2.0,4.0,6.0,7.0
+Describe,Month,3220.0,6.381,3.3531648494535977,1.0,4.0,6.381,9.0,12.0
+Describe,Weather_Score,3220.0,0.524022824,0.28058481474274877,0.000965,0.29188749999999997,0.524022824,0.75953175,1.099246
+Describe,Previous_Flight_Delay_Minutes,3220.0,26.793382751242234,26.90533840121114,0.0,8.0,20.0,36.0,259.0
+Describe,Airline_Rating,3220.0,2.317438874689441,1.3806412490366233,0.000103,1.188127,2.29214,3.4057340000000003,5.189038
+Describe,Passenger_Load,3220.0,0.515884507310559,0.2853531862571813,0.001039,0.28459924999999997,0.515884507,0.7512905,1.123559
+Describe,Flight_Cancelled,3220.0,0.6906666666894411,0.44621868081816923,0.0,0.0,1.0,1.0,1.0
+Missing Values,Flight ID,,,,,,,,
+Missing Values,Airline,,,,,,,,
+Missing Values,Flight_Distance,,,,,,,,
+Missing Values,Origin_Airport,,,,,,,,
+Missing Values,Destination_Airport,,,,,,,,
+Missing Values,Scheduled_Departure_Time,,,,,,,,
+Missing Values,Day_of_Week,,,,,,,,
+Missing Values,Month,,,,,,,,
+Missing Values,Airplane_Type,,,,,,,,
+Missing Values,Weather_Score,,,,,,,,
+Missing Values,Previous_Flight_Delay_Minutes,,,,,,,,
+Missing Values,Airline_Rating,,,,,,,,
+Missing Values,Passenger_Load,,,,,,,,
+Missing Values,Flight_Cancelled,,,,,,,,
